@@ -15,16 +15,17 @@ My name is Raphael Discky and I'm a software engineer. I'm from Indonesia, livin
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaeldiscky&layout=compact" style="text-align:center" />
 </p>
 
-
-
-<a href="https://twitter.com/huckfitlerr">
+<p align="center">
+  <a href="https://twitter.com/huckfitlerr">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/raphaeldiscky/">
-  <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+  </a>
+  <a href="https://www.linkedin.com/in/raphaeldiscky/">
+    <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="https://www.instagram.com/abhisheknaiidu/">
+    <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
+</p>
+
 
 
