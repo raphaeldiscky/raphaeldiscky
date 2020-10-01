@@ -8,7 +8,7 @@ My name is Raphael Discky and I'm a future software engineer. I'm from Indonesia
 ### 📈 GitHub Stats 
 <hr>
 ![Discky's github stats](https://github-readme-stats.vercel.app/api?username=raphaeldiscky&show_icons=true&theme=react&title_color=30FFFF&icon_color=30FFFF&bg_color=041414)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaeldiscky&layout=compact)]
 
 
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
