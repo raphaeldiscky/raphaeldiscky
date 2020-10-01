@@ -5,6 +5,10 @@
 <hr>
 My name is Raphael Discky and I'm a future software engineer. I'm from Indonesia, living in Yogyakarta and currently a sophomore computer science student at University Gadjah Mada.
 
+### 🔧 Technologies & Tools
+<hr>
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+
 ### 📈 GitHub Stats 
 <hr>
 
