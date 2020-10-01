@@ -22,7 +22,7 @@ My name is Raphael Discky and I'm a software engineer. I'm from Indonesia, livin
   <a href="https://www.linkedin.com/in/raphaeldiscky/">
     <img align="center" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
-  <a href="https://www.instagram.com/abhisheknaiidu/">
+  <a href="https://www.instagram.com/rdiscky/">
     <img align="center" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
 </p>
