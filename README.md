@@ -8,7 +8,7 @@ My name is Raphael Discky and I'm a future software engineer. I'm from Indonesia
 ### 📈 GitHub Stats 
 <hr>
 
-![Discky's github stats](https://github-readme-stats.vercel.app/api?username=raphaeldiscky&show_icons=true&theme=radical)
+![Discky's github stats](https://github-readme-stats.vercel.app/api?username=raphaeldiscky&show_icons=true&theme=react&title_color=30FFFF&icon_color=30FFFF&bg_color=041414)
 
 
 
