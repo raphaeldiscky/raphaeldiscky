@@ -14,6 +14,7 @@ My name is Raphael Discky and I'm a software engineer. I'm from Indonesia, livin
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaeldiscky&layout=compact" style="text-align:center" />
 </p>
+<hr>
 
 <p align="center">
   <a href="https://twitter.com/huckfitlerr">
