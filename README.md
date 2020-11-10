@@ -1,9 +1,9 @@
 
 ![cover](https://github.com/raphaeldiscky/raphaeldiscky/blob/master/cover.gif)
 
-### Hey There! <img src="https://github.com/raphaeldiscky/raphaeldiscky/blob/master/wave.gif" width="30px">
+### Hey, I'm Raphael! <img src="https://github.com/raphaeldiscky/raphaeldiscky/blob/master/wave.gif" width="30px">
 <hr>
-My name is Raphael Discky and I'm a software engineer. I'm from Indonesia, living in Yogyakarta and currently a sophomore computer science student at University Gadjah Mada.
+I'm a software engineer who is passionate in full stack development. Currently a sophomore computer science student at University Gadjah Mada.
 
 ### 📈 GitHub Stats 
 <hr>
