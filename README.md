@@ -3,7 +3,7 @@
 
 ### Hey, I'm Raphael! <img src="https://github.com/raphaeldiscky/raphaeldiscky/blob/master/wave.gif" width="30px">
 <hr>
-I'm a software engineer who is passionate in full stack development. Currently a computer science student at University Gadjah Mada.
+I'm a software engineer who is passionate in full stack development. Currently a computer science student with a caffeine addiction.
 
 ### 📈 GitHub Stats 
 <hr>
