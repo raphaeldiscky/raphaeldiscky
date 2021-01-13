@@ -1,9 +1,9 @@
 
-![cover](https://github.com/raphaeldiscky/raphaeldiscky/blob/master/cover.gif)
+![cover](https://github.com/raphaeldiscky/raphaeldiscky/blob/master/rick-rolled.gif)
 
 ### Hey, I'm Raphael! <img src="https://github.com/raphaeldiscky/raphaeldiscky/blob/master/wave.gif" width="30px">
 <hr>
-I'm a software engineer who is passionate in full stack development. Currently a computer science student with a caffeine addiction.
+I'm a software engineer who is passionate in full stack development. Currently a computer science student.
 
 ### 📈 GitHub Stats 
 <hr>
