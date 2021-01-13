@@ -9,9 +9,6 @@ I'm a software engineer who is passionate in full stack development. Currently a
 <hr>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raphaeldiscky&show_icons=true&theme=react&title_color=30FFFF&icon_color=30FFFF&bg_color=041414" style="text-align:center" />
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaeldiscky&layout=compact" style="text-align:center" />
 </p>
 <hr>
