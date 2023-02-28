@@ -27,7 +27,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 
 
-Passionate about web development and machine learning.
+Skilled and passionate about web development and machine learning.
 
 # <h5>my stats</h5>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=raphaeldiscky&theme=default&hide_border=false)<br/>
