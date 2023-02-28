@@ -1,5 +1,7 @@
 
-![cover](https://github.com/raphaeldiscky/raphaeldiscky/blob/master/rick-rolled.gif)
+<div align="center">
+  ![cover](https://github.com/raphaeldiscky/raphaeldiscky/blob/master/rick-rolled.gif)
+</div>
 
 <h1 align="center">Hi 👋, I'm Raphael Discky</h1>
 <h3 align="center">A passionate full stack developer and machine learning enthusiast from Indonesia</h3>
