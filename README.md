@@ -33,7 +33,7 @@
 Skilled and passionate about web development and machine learning.
 
 # <h5>my stats</h5>
-![](https://github-readme-streak-stats.herokuapp.com/?user=raphaeldiscky&theme=default&hide_border=false)<br/>
+![](https://github-readme-streak-stats-grx42patr-raphaeldiscky.vercel.app/?user=raphaeldiscky&theme=default&hide_border=false)<br/>
 
 #
 
