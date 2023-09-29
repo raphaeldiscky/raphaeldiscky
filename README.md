@@ -33,8 +33,7 @@
 Skilled and passionate about web development and machine learning.
 
 # <h5>my stats</h5>
-[![GitHub Streak](https://github-readme-streak-stats-grx42patr-raphaeldiscky.vercel.app?user=raphaeldiscky)](https://git.io/streak-stats)
-#
+[![GitHub Streak](https://github-readme-streak-stats-git-dependabot-12579c-raphaeldiscky.vercel.app?user=raphaeldiscky)](https://git.io/streak-stats)<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raphaeldiscky) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/RaphDiscky) 
