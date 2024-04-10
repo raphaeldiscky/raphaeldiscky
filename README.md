@@ -30,7 +30,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 
 
-Skilled and passionate about software development, distributed system, and machine learning.
+Skilled and passionate about software development, distributed systems, and machine learning.
 
 # <h5>my stats</h5>
 [![GitHub Streak](https://github-readme-streak-stats-git-dependabot-12579c-raphaeldiscky.vercel.app?user=raphaeldiscky)](https://git.io/streak-stats)<br/>
