@@ -1,6 +1,6 @@
 ![cover](https://github.com/raphaeldiscky/raphaeldiscky/blob/master/rick-rolled.gif)
 
-# <h5>my stacks</h5>
+# <h5>skills</h5>
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
@@ -32,7 +32,7 @@
 
 Skilled and passionate about software development, distributed systems, and machine learning.
 
-# <h5>my stats</h5>
+# <h5>stats</h5>
 [![GitHub Streak](https://github-readme-streak-stats-git-dependabot-12579c-raphaeldiscky.vercel.app?user=raphaeldiscky)](https://git.io/streak-stats)<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raphaeldiscky) 
