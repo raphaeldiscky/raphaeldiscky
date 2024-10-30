@@ -1,5 +1,3 @@
-![cover](https://github.com/raphaeldiscky/raphaeldiscky/blob/master/rick-rolled.gif)
-
 # <h5>Stacks</h5>
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Golang](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
