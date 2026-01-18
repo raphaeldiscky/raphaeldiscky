@@ -40,6 +40,5 @@ Skilled and passionate about software development, distributed systems, and mach
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://dub.sh/rdiscky-linkedin) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://dub.sh/rdiscky-twitter) 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/6287839912020)
 [![Personal Website](https://img.shields.io/badge/Personal%20Website%20-%2300cdac.svg?textColor=black)](https://raphael.discky.com/)
 [![Foo](https://img.shields.io/github/followers/raphaeldiscky?label=follow%20me&style=social)](https://github.com/raphaeldiscky)
