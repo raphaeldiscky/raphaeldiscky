@@ -40,7 +40,7 @@
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white)
 
-Skilled and passionate about software development, distributed systems, and machine learning.
+Skilled and passionate about software development, distributed systems, and machine learning/ai.
 
 # <h5>Stats</h5>
 [![GitHub Streak](https://github-readme-streak-stats-git-dependabot-12579c-raphaeldiscky.vercel.app?user=raphaeldiscky)](https://git.io/streak-stats)<br/>
